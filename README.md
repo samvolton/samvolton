@@ -1,11 +1,12 @@
 # Hi there, I'm Sam! My passion is building things, interested in Math, Programming and Finance! 👋
 
+I did a lot of entrepreneurship but don't like to call myself an entrepreneur. I'm rather someone who tries to spend as much as time with his passion!
+
 Currently learning MERN stack.
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning React and improving my skills in the MERN stack.
-- 💼 I’m working on enhancing my Chrome extension with a reward system and improved UI.
 - 🎯 Goal: To become proficient in the MERN stack and build versatile web applications.
 - ✨ Fun fact: I enjoy watching movies related to programming, math, and personal growth.
 
@@ -23,7 +24,7 @@ Currently learning MERN stack.
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=radical)
 
 ## 📫 How to reach me
 
