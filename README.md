@@ -27,31 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in JavaS
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: your.email@example.com
-
-## 🌟 Featured Projects
-
-### Project 1: Chrome Extension with Reward System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=radical)](https://github.com/your-github-username/your-repo-name)
-- Description: A Chrome extension that enhances user focus with a reward system.
-
-### Project 2: MERN Stack Application
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=radical)](https://github.com/your-github-username/your-repo-name)
-- Description: A full-stack web application built using the MERN stack.
-
-## 🎬 Favorite Movies
-
-- **Good Will Hunting**
-- **Rocky**
-- **October Sky**
-- Movies related to programming, math, finance, and personal growth.
-
-## 💬 Let's Connect
-
-Feel free to reach out if you want to collaborate on a project, have a chat about tech, or discuss movies!
-
----
-
-*Note: Replace placeholders like `your-github-username`, `your-repo-name`, `Your Name`, `yourhandle`, and `your.email@example.com` with your actual information.*
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/samet-dundar-ashkenazi-9a084a194/)
+- Twitter: [@yourhandle](https://x.com/Samvolton_aIM)
+- Email: subsamet@yahoo.com
+ 
