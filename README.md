@@ -4,6 +4,9 @@ I did a lot of entrepreneurship but don't like to call myself an entrepreneur. I
 
 Currently learning MERN stack.
 
+
+https://github.com/samvolton/samvolton/blob/main/vv1.png
+
 ## 🚀 About Me
 
 - 🌱 I’m currently learning React and improving my skills in the MERN stack.
