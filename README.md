@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sam! My passion is building things, interested in Math, Programming and Finance! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in JavaScript, React, and full-stack web development. I love building amazing projects and continuously learning new things.
+Currently learning MERN stack.
 
 ## 🚀 About Me
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in JavaS
 
 ## 📫 How to reach me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/samet-dundar-ashkenazi-9a084a194/)
-- Twitter: [@yourhandle](https://x.com/Samvolton_aIM)
+- LinkedIn: (https://www.linkedin.com/in/samet-dundar-ashkenazi-9a084a194/)
+- Twitter: (https://x.com/Samvolton_aIM)
 - Email: subsamet@yahoo.com
- 
+- PlayStore: https://play.google.com/store/apps/developer?id=PiyaSync&hl=tr
