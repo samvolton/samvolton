@@ -5,7 +5,7 @@ I did a lot of entrepreneurship but don't like to call myself an entrepreneur. I
 Currently learning MERN stack.
 
 
-https://raw.githubusercontent.com/samvolton/samvolton/main/vv1.png
+![Your Image Description](https://raw.githubusercontent.com/samvolton/samvolton/main/vv1.png)
 
 ## 🚀 About Me
 
