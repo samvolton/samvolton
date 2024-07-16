@@ -22,11 +22,7 @@ Currently learning MERN stack.
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-
-## 📈 GitHub Stats
-
-(https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=radical)
-
+ 
 ## 📫 How to reach me
 
 - LinkedIn: (https://www.linkedin.com/in/samet-dundar-ashkenazi-9a084a194/)
