@@ -11,7 +11,7 @@ Currently learning MERN stack.
 
 - 🌱 I’m currently learning React and improving my skills in the MERN stack.
 - 🎯 Goal: To become proficient in the MERN stack and build versatile web applications.
-- ✨ Fun fact: I enjoy watching movies related to programming, math, and personal growth.
+- ✨ Fun fact: We all gonna die someday so there is no reason not to take risks or follow your gut.
 
 ## 🛠️ Technologies & Tools
 
