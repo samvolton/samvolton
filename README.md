@@ -9,9 +9,9 @@ Currently learning MERN stack.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning React and improving my skills in the MERN stack.
-- 🎯 Goal: To become proficient in the MERN stack and build versatile web applications.
-- ✨ Fun fact: We all gonna die someday so there is no reason not to take risks or follow your gut.
+- 🌱 I’m currently trying my best to become a top quality full-stack dev.
+- 🎯 Goal: To become proficient in my expertise.
+- ✨ Fun fact: We all gonna die someday so there is no reason to not to take risks or follow your gut.
 
 ## 🛠️ Technologies & Tools
 
