@@ -2,7 +2,7 @@
 
 I did a lot of entrepreneurship but don't like to call myself an entrepreneur. I'm rather someone who tries to spend as much as time with his passion!
 
-Currently learning MERN stack.
+Currently learning MER-V-N stack.
 
 
 ![Your Image Description](https://raw.githubusercontent.com/samvolton/samvolton/main/vv1.png)
