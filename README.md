@@ -28,7 +28,7 @@ Currently learning MER-V-N stack.
  
 ## 📫 How to reach me
 
-- LinkedIn: https://www.linkedin.com/in/samet-dundar-ashkenazi-9a084a194/
+- LinkedIn:  https://www.linkedin.com/in/samet-dundar-9a084a194/
 - Twitter: https://x.com/Samvolton_aIM
 - Email: subsamet@yahoo.com
 - PlayStore: https://play.google.com/store/apps/developer?id=PiyaSync&hl=tr
